@@ -292,6 +292,10 @@
 ************/
 
 @media only screen and (max-width: 768px) {
+	.product_slider_item .product-item {
+		width: 100% !important;
+	}
+
 	.show_more {
 		width: 50%;
 	}
