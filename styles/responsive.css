@@ -387,10 +387,8 @@
 		margin-top: 15px;
 	}
 
-	.final {
-		text-align: center;
-		margin: auto;
-		margin-top: 60px;
+	.list_icon_final__item {
+		margin-right: 0px;
 	}
 
 	.footer-block__item.footer-block__column.footer-block__link_list.text-left {
@@ -519,7 +517,6 @@
 		height: calc(100vh - 70px);
 		/*height: 80vw;*/
 		min-height: auto;
-		margin-top: 70px;
 	}
 
 	.main_slider_content h6 {
@@ -540,9 +537,7 @@
 		font-size: 10px;
 	}
 
-	.banner_item {
-		height: calc((100vw - 30px) / 2.6);
-	}
+	.banner_item {}
 
 	.grid_sorting_button {
 		font-size: 12px;
