@@ -661,16 +661,13 @@ section {
 	transition: color 0.3s ease;
 }
 
-.fromLeft {
-	position: relative;
-}
-
 .subnav {
 	display: none;
 	position: absolute;
 	background-color: #ffffff;
 	border-radius: 2px;
 	z-index: 100;
+	top: 100%;
 }
 
 .subnav li {
